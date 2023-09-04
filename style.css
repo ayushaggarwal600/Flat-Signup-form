@@ -1,0 +1,105 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}                                                                     
+img
+{
+    margin-left: auto;
+    margin-right: auto;    
+    height: 120px; 
+}
+p
+{
+   text-align: center;
+   font-size: 14px;
+   color: white;
+}
+p.cls1
+{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    color: white;
+}
+.content
+{
+   height: 500px;
+   width: 470px;
+   background-color: rgb(36, 32, 50);
+   border-radius: 3px;
+   margin: 20px auto;
+}
+input
+{
+   height: 40px;
+   width: 400px;
+   margin-top: 30px;
+   margin-left: 30px;
+   padding-left: 10px;
+   border: 1px solid white;
+   background-color: rgb(36, 32, 50);
+   border-radius: 3px;
+   color: #fff;
+}
+.input1
+{
+    margin-top: 40px;
+}
+a.cls
+{
+   text-decoration: none;
+   height: 40px;
+   width: 415px;
+   display: inline-block;
+   margin-top: 15px;
+   text-align: center;
+   margin-left: 30px;
+   background-color:rgb(21, 43, 104);
+   color: white;
+   line-height: 40px;
+   border-radius: 3px;
+}
+a.cls1
+{
+   text-decoration: none;
+   margin-right: 75px;
+   margin-top: 20px;
+   float: right;
+   color: blue;
+}
+a.cls2
+{
+   text-decoration: none;
+   text-align: center;
+   display: block;
+   margin-top: 20px;
+   color: blue;
+   padding-top: 30px;
+}
+::placeholder
+{
+    text-align: center;
+    color: white;
+}
+p.cls2
+{
+    margin-top: 55px;
+}
+a img
+{
+   height: 20px;
+   margin-top: 40px;
+   margin-right: 5px;
+   text-decoration: none;
+}
+.class1
+{
+    margin-left: 10px;
+}
+.out
+{
+    height: 780px;
+    width: 1500px;
+}
